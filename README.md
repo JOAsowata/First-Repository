@@ -1,4 +1,3 @@
 # First-Repository
-This is my first repository
-
-This is a new edit from my local computer.
+This is a second example, and also my next commit.
+Hopefully I get to commit more useful stuff in time to come.
